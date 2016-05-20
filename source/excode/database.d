@@ -1,5 +1,5 @@
-// Written by Sheldon Shen, 2016-03-10
-// Thanks to Jimmy Chen
+// Written by meatatt.
+// Thanks to Jimmy Chen for bug fixing.
 
 enum wchar[65346] uni_gbk=[0xE8A1,0,0,0xECA1,0xA7A1,0,
 0,0,0,0,0,0,0xE3A1,0xC0A1,0,0,0,0,0,0xA4A1,0,0,0,0,0,0,0,0,0,
