@@ -3,5 +3,15 @@
 	"description": "Convert text strings between gb2312 and unicode.",
 	"license": "GPL-3.0",
 	"copyright": "Copyright © 2016, meatatt",
-	"authors": ["meatatt"]
+	"authors": ["meatatt"],
+	"configurations": [
+		{
+			"name": "library",
+			"targetType": "library"
+		},
+		{
+			"name": "test",
+			"targetType": "executable"
+		}
+	]
 }
